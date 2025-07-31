@@ -3,8 +3,7 @@ from rasterio.warp import calculate_default_transform, reproject, Resampling
 
 input_path = "data/elevation.tif"
 output_path = "data/elevation_utm.tif"
-dst_crs = "EPSG:32644"  # Example: UTM zone 44N (for Sri Lanka). Adjust if needed.
-
+dst_crs = "EPSG:32644"  
 with rasterio.open(input_path) as src:
     transform, width, height = calculate_default_transform(
         src.crs, dst_crs, src.width, src.height, *src.bounds)
