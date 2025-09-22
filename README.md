@@ -85,9 +85,6 @@ pip install -r requirements.txt
 * **Python 3.10**
 * **PyTorch 2.x / TensorFlow**
 * **GeoPandas, Rasterio, Shapely** for geospatial processing
-* **Postgres + PostGIS** for spatial queries
-* **FastAPI** for serving
-* **MLflow** for experiment tracking
 
 ---
 
