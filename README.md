@@ -59,7 +59,7 @@ The system is divided into:
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-org>/MDT_prediction.git
+git clone https://github.com/pabasara-samarakoon-4176/MDT_prediction.git
 cd MDT_prediction-main
 
 
