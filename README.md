@@ -52,7 +52,8 @@ The system is divided into:
   * Multiscale transformer backbone with uncertainty estimation
   * Improved generalization and stability
 
----
+---![Alt text](https://drive.google.com/uc?export=view&id=1FoGAI_Cv1PpKzHf_SfAQsMbgtRo7F6ad)
+
 
 ## ⚙️ Installation
 
@@ -61,13 +62,7 @@ The system is divided into:
 git clone https://github.com/<your-org>/MDT_prediction.git
 cd MDT_prediction-main
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate   # Linux/macOS
-venv\Scripts\activate      # Windows
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ---
