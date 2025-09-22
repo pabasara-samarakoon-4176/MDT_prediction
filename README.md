@@ -102,7 +102,3 @@ Group 05 — University of Ruhuna
 In collaboration with **Dialog Axiata PLC**
 
 ---
-
-## 📜 License
-
-MIT License. See [LICENSE](LICENSE) for details.
