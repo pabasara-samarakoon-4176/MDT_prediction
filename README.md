@@ -67,14 +67,6 @@ cd MDT_prediction-main
 
 ---
 
-## 📊 Evaluation Metrics
-
-* RMSE, MAE, R²
-* Calibration of uncertainty estimates
-* Sector-wise error breakdown
-
----
-
 ## 🛠️ Tech Stack
 
 * **Python 3.10**
@@ -87,7 +79,6 @@ cd MDT_prediction-main
 
 * Integration with real MDT data (privacy-compliant)
 * Enhanced cell boundary detection
-* Online model retraining & monitoring
 
 ---
 
