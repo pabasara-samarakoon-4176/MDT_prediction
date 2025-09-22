@@ -23,10 +23,9 @@ The system is divided into:
 
 1. **Data Ingestion** – MDT CSVs, OSM, DEM, NDVI, WorldPop
 2. **Preprocessing** – raster sampling, vector aggregation, geohash encoding, feature engineering
-3. **Feature Store** – cleaned datasets stored in Parquet/PostGIS
+3. **Synthetic Data Generation** – Based on terrain features and real worl structures make the synthetic data set
 4. **Model Training** – multiple transformer architectures (V1–V5)
-5. **Model Serving** – REST API for predictions & heatmaps
-6. **Monitoring** – drift detection and retraining pipeline
+5. **Visualization and Validation** – Comparing actual and prediction MDT plots
 
 ---
 
